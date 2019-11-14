@@ -1,2 +1,2 @@
-# P-gina-personal
+# Pagina-personal
 Mi página personal
